@@ -5,8 +5,10 @@
 
 # 📲 DASHBOARD QUẢN TRỊ DỰ ÁN — APP DSS CLUB
 
-> **Dự án:** Nâng cấp & Vận hành ứng dụng DSS CLUB.
-> **Trạng thái:** Khởi tạo hệ thống | **Cập nhật:** 2026-04-02
+> [!ABSTRACT] 📜 Thông tin dự án
+> - **Dự án:** Nâng cấp & Vận hành ứng dụng DSS CLUB.
+> - **Trạng thái:** 🚀 Đang triển khai (Feature Spec Phase)
+> - **Cập nhật cuối:** 2026-04-10
 
 ---
 
@@ -17,37 +19,30 @@
 
 ---
 
-## 🚀 TIẾN ĐỘ NÂNG CẤP APP
+## ⚙️ ĐẶC TẢ TÍNH NĂNG (PHÒNG VẬN HÀNH)
 
-| File | Trạng thái | Cập nhật | Hạn chót |
-| ---- | ---------- | -------- | -------- |
+> [!SUCCESS] Các tính năng mới đã hoàn thiện đặc tả kỹ thuật
 
-{ .block-language-dataview}
-
----
-
-## 📋 DANH SÁCH SOP (QUY TRÌNH CHUẨN)
-
-| File | Loại | Phòng ban | Trạng thái |
-| ---- | ---- | --------- | ---------- |
-
-{ .block-language-dataview}
+- **🆔 Xác thực & Phân cấp**: [[01_TONG_QUAN_LY_DU_AN/2_PHONG_VAN_HANH/20260409_Verification_Levels_Proposal\|Phân cấp đặc quyền tài khoản (Level 1-2-3)]]
+- **💬 Cộng đồng & Gamification**: [[01_TONG_QUAN_LY_DU_AN/2_PHONG_VAN_HANH/20260409_Social_Community_Spec\|Mạng xã hội nội bộ & Điểm cống hiến]]
+- **🎟️ Check-in Sự kiện**: [[01_TONG_QUAN_LY_DU_AN/2_PHONG_VAN_HANH/20260410_Event_Checkin_Spec\|Check-in thông minh (AI Face & Dynamic QR)]]
+- **🔄 Cập nhật ứng dụng**: [[01_TONG_QUAN_LY_DU_AN/2_PHONG_VAN_HANH/20260410_App_AutoUpdate_Spec\|Hệ thống Tự động cập nhật (In-App Update)]]
 
 ---
 
-## 📂 BIỂU MẪU & TÀI LIỆU RAW
+## 🏗️ QUY TRÌNH HỆ THỐNG (SOP)
 
-
-{ .block-language-dataview}
+- [[docs/feature_requests/SOP_Quy_Trinh_Duyet_Xac_Thuc\|📋 Quy trình Duyệt xác thực User (Admin)]]
+- [[docs/feature_requests/20260409_Account_Verification_Upgrade\|📝 Đề xuất Nâng cấp Xác thực (Draft)]]
 
 ---
 
 ## 🛠️ PHỐI HỢP PHÒNG BAN
 
-- 🏢 **Ban Giám đốc**: [1_PHONG_BAN_GIAM_DOC](file:///D:/01%20Google%20DahuaDSS/01%20DSS%20CLUB/00%20AI%20DSSCLUB/01_TONG_QUAN_LY_DU_AN/1_PHONG_BAN_GIAM_DOC)
-- ⚙️ **Vận hành**: [2_PHONG_VAN_HANH](file:///D:/01%20Google%20DahuaDSS/01%20DSS%20CLUB/00%20AI%20DSSCLUB/01_TONG_QUAN_LY_DU_AN/2_PHONG_VAN_HANH)
-- 🔧 **Kỹ thuật/Dev**: [7_PHONG_KY_THUAT](file:///D:/01%20Google%20DahuaDSS/01%20DSS%20CLUB/00%20AI%20DSSCLUB/01_TONG_QUAN_LY_DU_AN/7_PHONG_KY_THUAT)
-- 💰 **Kế toán**: [3_PHONG_KE_TOAN](file:///D:/01%20Google%20DahuaDSS/01%20DSS%20CLUB/00%20AI%20DSSCLUB/01_TONG_QUAN_LY_DU_AN/3_PHONG_KE_TOAN)
+- 🏢 **Ban Giám đốc**: [[1_PHONG_BAN_GIAM_DOC\|1_PHONG_BAN_GIAM_DOC]]
+- ⚙️ **Vận hành**: [[2_PHONG_VAN_HANH\|2_PHONG_VAN_HANH]]
+- 🔧 **Kỹ thuật/Dev**: [[7_PHONG_KY_THUAT\|7_PHONG_KY_THUAT]]
+- 💰 **Kế toán**: [[3_PHONG_KE_TOAN\|3_PHONG_KE_TOAN]]
 
 ---
 
