@@ -18,8 +18,9 @@
 - [[README_HE_THONG\|📜 Hướng dẫn vận hành hệ thống (App Brain)]]
 
 ---
-
-## ⚙️ ĐẶC TẢ TÍNH NĂNG (PHÒNG VẬN HÀNH)
+[[01_TONG_QUAN_LY_DU_AN/2_PHONG_VAN_HANH/Presentations/App_Update_Showcase\|App_Update_Showcase]]
+## [[01_TONG_QUAN_LY_DU_AN/2_PHONG_VAN_HANH/Presentations/Social_Community_Slides\|Social_Community_Slides]]
+⚙️ ĐẶC TẢ TÍNH NĂNG (PHÒNG VẬN HÀNH)
 
 > [!SUCCESS] Các tính năng mới đã hoàn thiện đặc tả kỹ thuật
 
